@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_shared_teams",
+  "info": {
+    "displayName": "team"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "whatsApp": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "call": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

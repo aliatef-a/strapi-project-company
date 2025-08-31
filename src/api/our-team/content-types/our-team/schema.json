@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "our_teams",
+  "info": {
+    "singularName": "our-team",
+    "pluralName": "our-teams",
+    "displayName": "ourTeam"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "team": {
+      "type": "component",
+      "component": "shared.team",
+      "repeatable": false
+    }
+  }
+}

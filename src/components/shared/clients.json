@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shared_clients",
+  "info": {
+    "displayName": "clients"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "position": {
+      "type": "string"
+    },
+    "feedback": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
